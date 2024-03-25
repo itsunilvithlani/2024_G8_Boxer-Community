@@ -41,6 +41,7 @@ const initialValuesRegister = {
   picture: "",
 };
 
+//email and pass
 const initialValuesLogin = {
   email: "",
   password: "",
